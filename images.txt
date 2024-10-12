@@ -1,9 +1,1 @@
-weaviate
-db 
-sandbox
-worker
-web
-ssrf_proxy 
-api
-nginx
 redis
